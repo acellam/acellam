@@ -4,7 +4,7 @@
  </p>
 <p align="center">
   <b> I'm Guy Acellam </b> 🚀 <br />
-  A coder withour borders who lives in Kampala, Uganda <br />
+  A coder without borders who lives in Kampala, Uganda <br />
   I am a <b> Fullstack Developer </b> with 9+ years experience<br />
   I have focused my craft to <b> Ruby on Rails </b> & <b> Nodejs </b><br />
   Am working on my retirement through <b> Machine Learning </b> & <b> Computer Vision </b><br />
