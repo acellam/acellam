@@ -1,6 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 <p align="center"><a href="https://twitter.com/mistaguy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guy-acellam-80366415/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mistaguy" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=mistaguy-ui&label=Profile%20views&color=0e75b6&style=flat" alt="mistaguy" /> </p>
  </p>
 <p align="center">
   <b> I'm Guy Acellam </b> 🚀 <br />
@@ -30,6 +31,10 @@
 <a href="https://github.com/mendixlabs/google-maps">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mendixlabs&repo=google-maps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
+
+## 🔥 Streak
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistaguy&" alt="mistaguy" /></p>
 
 ## 🔧 Technologies & Tools
 <p>
