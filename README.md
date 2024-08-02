@@ -1,7 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-<p align="center"><a href="https://twitter.com/mistaguy" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guy-acellam-80366415/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mistaguy" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
- <p align="center"> <img src="https://komarev.com/ghpvc/?username=mistaguy-ui&label=Profile%20views&color=0e75b6&style=flat" alt="mistaguy" /> </p>
+<p align="center"><a href="https://twitter.com/acellam6" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/guy-acellam-80366415/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@mistaguy" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+ <p align="center"> <img src="https://komarev.com/ghpvc/?username=acellam-ui&label=Profile%20views&color=0e75b6&style=flat" alt="acellam" /> </p>
  </p>
 <p align="center">
   <b> I'm Guy Acellam </b> 🚀 <br />
@@ -16,15 +16,15 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/mistaguy/mistaguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mistaguy&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/acellam/acellam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=acellam&hide=java,html,css&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
-<a href="https://github.com/mistaguy/mistaguy">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mistaguy&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guy's GitHub Stats" />
+<a href="https://github.com/acellam/acellam">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acellam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guy's GitHub Stats" />
 </a>
 
-<a href="https://github.com/mistaguy/ment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mistaguy&repo=ment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/acellam/ment">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acellam&repo=ment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
@@ -34,7 +34,7 @@
 
 ## 🔥 Streak
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mistaguy&" alt="mistaguy" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acellam&" alt="acellam" /></p>
 
 ## 🔧 Technologies & Tools
 <p>
