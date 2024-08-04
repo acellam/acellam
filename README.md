@@ -35,10 +35,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mendixlabs&repo=google-maps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a> 
 
-## 🔥 Streak
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=acellam&" alt="acellam" /></p>
-
 ## 🔧 Technologies & Tools
 <p>
   <span align="center" class="d-flex">
