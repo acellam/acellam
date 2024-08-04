@@ -14,27 +14,6 @@
 <br/>
 <br/>
 
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/acellam/acellam">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=acellam&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Guy's GitHub Stats" />
-</a>
-
-
-<a href="https://github.com/fractalerp/fractal-core">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=fractalerp&repo=fractal-core&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/acellam/ment">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=acellam&repo=ment&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-
-<a href="https://github.com/mendixlabs/google-maps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mendixlabs&repo=google-maps&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
 ## 🔧 Technologies & Tools
 <p>
   <span align="center" class="d-flex">
