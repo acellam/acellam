@@ -8,7 +8,6 @@
   A coder without borders <br />
   I am a <b> Fullstack Developer </b> with 8+ years professional experience<br />
   I have focused my craft to <b> Ruby on Rails </b> & <b> Nodejs </b><br />
-  Am working on my retirement by focusing on <b> Technical Management </b> & <b> Engineering Management </b><br />
 </p>
 
 <br/>
