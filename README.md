@@ -7,7 +7,8 @@
   <b> I'm Guy Acellam </b> 🚀 <br />
   A coder without borders <br />
   I am a <b> Fullstack Developer </b> with 8+ years professional experience<br />
-  I have focused my craft to <b> Ruby on Rails </b> & <b> Nodejs </b><br />
+  I have focused my craft on <b> Ruby on Rails </b> and <b>M.E.R.N</b> <br/>
+  Anything with <b>Ruby</b>,<b> Typescript</b> & <b>Javascript</b> <br />
 </p>
 
 <br/>
