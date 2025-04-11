@@ -6,9 +6,7 @@
 <p align="center">
   <b> I'm Guy Acellam </b> 🚀 <br />
   A coder without borders <br />
-  I am a <b> Fullstack Developer </b> with 8+ years professional experience<br />
-  I have focused my craft on <b> Ruby on Rails </b> and <b>M.E.R.N</b> <br/>
-  Anything with <b>Ruby</b>,<b> Typescript</b> & <b>Javascript</b> <br />
+  I am a <b> Fullstack Developer </b> with 10+ years professional experience<br />
 </p>
 
 <br/>
@@ -20,6 +18,7 @@
     <img title="HTML" alt="HTML" height=40 src="https://www.w3.org/html/logo/downloads/HTML5_Badge_256.png">
     <img title="CSS" alt="CSS" height=40
       src="https://www.kindpng.com/picc/m/464-4640184_css3-png-download-css-icon-transparent-png.png">
+     <img title="JAVA" alt="JAVA" height=40  _fcksavedurl=“https://www.oracle.com/java/” src="https://www.oracle.com/java/">
     <img title="Ruby" alt="Ruby" height=40 src="https://blog.mwpreston.net/wp-content/uploads/2018/09/ruby-logo.png">
     <img title="Ruby On Rails" alt="Ruby On Rails" height=40 src="https://guides.rubyonrails.org/images/favicon.ico">
     <img title="JavaScript" alt="JavaScript" height=40
