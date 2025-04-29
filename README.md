@@ -4,7 +4,7 @@
  <p align="center"> <img src="https://komarev.com/ghpvc/?username=acellam-ui&label=Profile%20views&color=0e75b6&style=flat" alt="acellam" /> </p>
  </p>
 <p align="center">
-  <b> I'm Guy Acellam </b> 🚀 <br />
+  <b> I'm Acellam </b> 🚀 <br />
   A coder without borders <br />
   I am a <b> Fullstack Developer </b> with 10+ years professional experience<br />
 </p>
